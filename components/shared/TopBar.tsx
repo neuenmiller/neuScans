@@ -29,7 +29,7 @@ function TopBar(){
                     appearance={{
                         elements: {organizationSwitcherTrigger: 'py-2 px-4 rounded-md bg-light-1 text-heading3-bold text-dark-1'},
                     }}/>
-            </ div>
+            </div>
 
         </nav>
     )
